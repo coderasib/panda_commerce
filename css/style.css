@@ -19,3 +19,22 @@
 	padding: 9px 25px;
 	cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background: orange;
+}
+.cat2{
+    background: orchid;
+}
+.cat3{
+    background: blue;
+}
+.categories-area h1{
+    color: white;
+}
+.categories-area img{
+    width: 110px;
+}
